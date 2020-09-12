@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=fesaille)]
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/fesaille/fesaille">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesaille&hide=md,css,jupyter%20notebook,html&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/fesaille/fesaille">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fesaille&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+</a>
 -->
